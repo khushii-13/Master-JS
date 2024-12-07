@@ -3,5 +3,5 @@ console.log(null==0);
 console.log(null<=0);
 console.log(null>=0);
 
-// === check value and data type both
+// === check for value and data type both
 console.log("9"===9);
